@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div type="list_places" xml:id="places">
+    
+    <head>
+        <label>
+            List of places:
+        </label>
+        Places and locations mentioned in the book.
+    </head>
+    <listPlace>
+        
+        <place xml:id="pl_st_petersburg" type="city">
+            <placeName>
+                St. Petersburg
+            </placeName>
+            <desc>St. Petersburg, Missouri, fictional hometown of Mark Twain's characters Tom Sawyer and Huckleberry Finn. Inspired by Hannibal, Missouri the place where Mark Twain grew up. </desc>
+        </place>
+        <place xml:id="pl_constantinople" type="city">
+            <placeName>Constantinople</placeName>
+            <desc>Becky’s hometowm,  Costantinople (not to be confused with Istanbul) is a fictional Missouri town 12 miles away from St. Petersburg.</desc>
+        </place>
+        <place xml:id="pl_garden">
+            <placeName>garden</placeName>
+            <desc>the garden</desc>
+        </place>
+        <place xml:id="pl_cardiff_hill">
+            <placeName>Cardiff Hill</placeName>
+            <desc>A place which Tom frequently visited to play. The actual location of Cardiff Hill located at the north end of downtown area of Hannibal</desc>
+        </place>
+        <place xml:id="pl_still_house_branch">
+            <placeName>Still-house branch</placeName>
+            <desc>A small stream flowing into Mississipi, located north of Cardiff Hill and close to the haunted house.</desc>
+        </place>
+        
+        <place xml:id="pl_cow_stable">
+            <placeName>Aunt Polly’s cow stable</placeName>
+            <desc>cow stable</desc>
+        </place>
+        <place xml:id="pl_graveyard">
+            <placeName>Graveyard</placeName>
+            <desc>St. Petersburg’s graveyard.</desc>
+        </place>
+        <place xml:id="pl_house">
+            <!-- Review: use another id change in all instances of the book -->
+            <placeName>The house</placeName>
+            <desc>Aunt Polly's house</desc>
+        </place>
+        <place xml:id="pl_sittingroom">
+            <placeName>Sitting room</placeName>
+            <desc>Aunt Polly's sitting room.</desc>
+        </place>
+        <place xml:id="pl_upstairs">
+            <!-- up-stairs, at Aunt Polly’s house -->
+            <placeName>up-stairs</placeName>
+            <desc>The upper floor of Aunt Polly's House</desc>
+        </place>
+        <place xml:id="pl_schoolyard">
+            <placeName>Schoolyard</placeName>
+            <desc>the schoolyard</desc>
+        </place>
+        <place xml:id="pl_meadow_lane">
+            <placeName>Meadow Lane</placeName>
+            <desc>FIX</desc>
+        </place>
+        <place xml:id="pl_tannery">
+            <placeName>Tannery</placeName>
+            <desc>After witnessing the murder of Doctor Robinson, Tom and huck flee to the old tannery.</desc>
+        </place>
+        <place xml:id="pl_jackson_island">
+            <placeName>Jackson’s Island</placeName>
+            <desc>Located on the Mississippi below St. Petersburg. This location was inspired by Glasscok’s Island (now named Pearl Island).</desc>
+            <location>
+                <!-- latitude followed by longitude -->
+                <geo>39.707537 -91.335020</geo>
+            </location>
+        </place>
+        <place xml:id="pl_church">
+            <placeName>The village’s church</placeName>
+            <desc>One of Toms least favorite places for most children is the town church.</desc>
+        </place>
+        <place xml:id="pl_school">
+            <placeName>Tom’s School</placeName>
+            <desc>St. Petersburg school, Tom and his friends continuously try to avoid attending classes and often get punished for it.</desc>
+        </place>
+        <place xml:id="pl_courtroom">
+            <placeName>The village’s courtroom</placeName>
+            <desc>The towns courtroom where Muff Potter's trial takes place.</desc>
+        </place>
+        <place xml:id="pl_cave">
+            <placeName>McDougal cave</placeName>
+            <desc>A huge maze like cave whose parts have never been fully explored. The real life cave is a U.S National Natural Landmark and is located near Hannibal, Missouri and is named “Mark Twain Cave) </desc>
+        </place>
+        <place xml:id="pl_river">
+            <placeName>Missisipi River</placeName>
+            <desc>Missisipi river. A lot of action described in the book revolves around the river.</desc>
+        </place>
+        <!--review -->
+        
+        <place xml:id="pl_house_thatcher">
+            <placeName>Thathcer’s house</placeName>
+            <desc>Jusge Thatcer’s, Mrs Thatcher’s and Becky’s residence,</desc>
+            <location>
+                <address>
+                    <street>209–211 Hill Street</street>
+                </address>
+            </location>
+        </place>
+        <place xml:id="pl_house_widow">
+            <placeName>Mrs. Douglas’ mansion.</placeName>
+            <desc>Widow Douglas and her servants live in the biggest and most luxiourious house of St. Petersburg.</desc>
+        </place>
+        <place xml:id="pl_slaughterhouse">
+            <placeName>Slaughterhouse</placeName>
+            <desc>The abandoned slaughterhouse located at the lower end of the town</desc>
+        </place>
+        <place xml:id="pl_coonville">
+            <placeName>Coonville</placeName>
+            <desc>fix</desc>
+        </place>
+        <place xml:id="pl_haunted_house">
+            <placeName>The haunted house</placeName>
+            <desc>The place </desc>
+        </place>
+        <place xml:id="pl_number_two">
+            <placeName>Number Two — under the cross</placeName>
+            <desc>One of Injun Joe’s hiding places.</desc>
+            <!--<desc type="spoiler">Tom and Huck overhear Injun Joe revealing that he would hide the treasure in “Number Two&#x2009;–&#x2009;under the cross” initial think that Joe is talking about a room in one of the two town taverns but they later discover it refers to a spot marked in the McDougal’s cave</desc>-->
+        </place>
+        <place xml:id="pl_tavern">
+            <placeName>Temperance Tavern, hiding place No.2</placeName>
+            <desc>FIX</desc>
+        </place>
+        <place xml:id="pl_the_dead_tree">
+            <placeName>The dead tree</placeName>
+            <desc>FIX</desc>
+        </place>
+        <place xml:id="pl_hogshead">
+            <placeName>An empty sugar barrel, that often serves as Huck’s "house".
+            </placeName>
+            <desc>FIX</desc>
+        </place>
+        <place xml:id="pl_rogers_hayloft">
+            <placeName> Ben Roger’s barn</placeName>
+            <desc>The Rogers family barn, Huck is also allowed by Ben Rogers and Uncle Jake to sleep there whenever he needs to.</desc>
+        </place>
+        <place xml:id="pl_house_welshmans">
+            <placeName>The Welshman’s house</placeName>
+            <desc>The house is occupied by The Welshman and his three sons.</desc>
+        </place>
+        <place xml:id="pl_douglas_drawing_room">
+            <placeName>The Drawing room</placeName>
+            <desc>The Douglas mansion entartaining room. </desc>
+        </place>
+        <!-- latest -->
+        <!-- review -->
+        <place xml:id="pl_dead_tree">
+            <placeName>The dead tree.</placeName>
+            <desc>FIX</desc>
+        </place>
+        <place xml:id="pl_room_1_tavern">
+            <placeName>Injun Joe while on the run was hiding in room no.1 at a local tavern.</placeName>
+            <desc>FIX</desc>
+        </place>
+        <place xml:id="pl_wharf">
+            <placeName>wharf (quay)</placeName>
+            <desc>FIX</desc>
+        </place>
+        <place xml:id="pl_the_wood_summit_cardiff_hill">
+            <placeName>The Wood on the summit of Cardiff Hill</placeName>
+            <desc>FIX</desc>
+        </place>
+    </listPlace>
+</div>
